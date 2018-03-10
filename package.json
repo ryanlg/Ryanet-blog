@@ -1,0 +1,18 @@
+{
+  "name": "ryanet-blog",
+  "version": "0.0.1",
+  "description": "Blog as a module for Ryanet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@Ryangit:xmomowan/Ryanet-blog.git"
+  },
+  "author": "Ryan Liang",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "ghost": "^1.21.4"
+  }
+}
