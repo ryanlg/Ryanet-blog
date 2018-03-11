@@ -7,9 +7,6 @@
             "database" : "ghost"
         }
     },
-    "paths": {
-        "contentPath": "content/"
-    },
     "logging": {
         "level": "info",
         "rotation": {

@@ -8,10 +8,6 @@
             "database" : "ghost"
         }
     },
-    "privacy": {
-        "useRpcPing": false,
-        "useUpdateCheck": true
-    },
     "useMinFiles": false,
     "caching": {
         "theme": {
