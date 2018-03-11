@@ -1,0 +1,3 @@
+[submodule "ghost/content/themes/ryan"]
+	path = ghost/content/themes/ryan
+	url = https://github.com/xmomowan/Ryanet-blog-theme-ghost
